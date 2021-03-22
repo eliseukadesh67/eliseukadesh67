@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Eliseu Kadesh
 
 I'm a Software Engeneering Student at Universidade de Brasília (UnB).
 
